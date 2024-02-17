@@ -1,0 +1,10 @@
+header {
+  min-width: 100vh;
+  display: flex;
+  flex-direction: column;
+  background-color: #b9d7b1;
+}
+
+h1 {
+  text-align: center;
+}
